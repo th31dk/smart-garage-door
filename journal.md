@@ -86,14 +86,40 @@ After printing it, the shorter axis fit perfectly, but the longer axis was a bit
 
 Now the pins are too far apart, I will shrink the distance by 1mm and reprint. I hope it'll actually fit now. 
 
-It worked perfectly! Let's move on to designing the rest of this case
+It worked perfectly! Let's move on to designing the rest of this case. I put 2.8mm holes in the corners so I can attach a lid with M3 bolts. I didn't want the walls around the screw to be too thin either, so I made each wall 5mm instead of 3.175mm.
+
+![image](/assets/case_4.png)
+
+I then measured the dimensions of the PCB and drew it out. I added 0.2mm of clearance on each side so the PCB could fit easier. 
 
 ![image](/assets/case_3.png)
 
-After the base case was done, I began soldering everything
+I sent the case to print.
+
+![image](/assets/case_6.png)
+
+After the base case was done printing, I began soldering all the electronics together. The overall process was easy except some flux got into my eye. I used some heatshrink and some electrical tape to insulate the pins from the transistor and ground wires from touching each other
 
 ![image](/assets/finished_wiring_1.jpg)
 
+After that, I decided to model the top of the case. I didn't really bother adding any design to it because it wouldn't be seen. I'm planning on placing it above the motor unit. Also, adding holes for design lets dust in which is kind of bad. 
 
+![image](/assets/case_5.png)
+
+After that, I sent it to print. While it was printing, I wanted to do the assembly for the case. I modeled a rough model of the PCB and ESP32. 
+
+![image](/assets/assembly.png)
+
+By the time I finished the assembly, the top was done. I attached the top to the bottom with 4 M3x10 bolts. 
 
 ![image](/assets/finished_project_1.jpg)
+
+Later, I installed the reed switch and the magnet. When the garage door is open, it pulls away the magnet, releasing the switch. 
+
+![image](/assets/reed_switch_4.png)
+
+I then wired it to the main box that I put atop the motor.
+
+![image](/assets/finished_project_2.png)
+
+
