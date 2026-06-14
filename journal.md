@@ -122,4 +122,38 @@ I then wired it to the main box that I put atop the motor.
 
 ![image](/assets/finished_project_2.png)
 
+## June 14th, 2026 - Sunday
+Hey guys! It's submission day today, so I'll have to rush finishing the repository. To start, I'll make a checklist to see I've checked everything off. 
 
+**README**
+- [x] Project Description
+- [x] Screenshots of Assembly
+- [x] Wiring Diagram
+
+**Design**
+- [x] Original
+- [x] Secure
+- [x] Firmware
+- [x] BOM in Repository
+- [x] 3D Models in Repository
+- [x] Zine PDF in Repository
+
+**Zine**
+- [x] A5
+- [x] In README
+- [x] Description
+- [x] Central Graphic
+- [x] QR Code
+- [x] Name
+
+I realized that I was missing a wiring diagram. At first I tried to do it in KiCAD, but I couldn't create a symbol for the garage remote, so I just went on a digital whiteboard and drew it there
+
+![image](/assets/schematic_1.png)
+
+Next, I was missing the 3D models, so I exported them from Onshape. I also attached the Onshape link in the README.
+
+Now for the zine! I wanted to do a blue and yellow color template that I saw online
+
+After some time, I think I whipped up a decent zine. 
+
+![image](/assets/zine.png)
